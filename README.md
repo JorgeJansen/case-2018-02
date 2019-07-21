@@ -2,7 +2,11 @@
 
 > A Vue.js project
 
+open project in https://github.com/JorgeJansen/case-2018-02/tree/jorge-jansen-case
+
 ## Build Setup
+
+git clone https://github.com/JorgeJansen/case-2018-02.git
 
 ``` bash
 # install dependencies
